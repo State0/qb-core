@@ -252,20 +252,47 @@ QBShared.Jobs = {
             },
 			['1'] = {
                 name = 'Anfänger',
-                payment = 150
+                payment = 125
             },
 			['2'] = {
                 name = 'Lackierer',
-                payment = 200
+                payment = 150
             },
 			['3'] = {
                 name = 'Picasso',
-                payment = 250
+                payment = 175
             },
 			['4'] = {
                 name = 'Manager',
 				isboss = true,
-                payment = 300
+                payment = 200
+            },
+        },
+	},
+	['bikeshop'] = {
+		label = 'Howling Wolves Bikeshop',
+		defaultDuty = true,
+		grades = {
+            ['0'] = {
+                name = 'Greenhorn',
+                payment = 100
+            },
+			['1'] = {
+                name = 'Anfänger',
+                payment = 125
+            },
+			['2'] = {
+                name = 'Mechaniker',
+                payment = 150
+            },
+			['3'] = {
+                name = 'Experte',
+                payment = 175
+            },
+			['4'] = {
+                name = 'Manager',
+				isboss = true,
+                payment = 200
             },
         },
 	},
