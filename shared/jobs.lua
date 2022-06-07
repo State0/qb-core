@@ -247,25 +247,25 @@ QBShared.Jobs = {
 		defaultDuty = true,
 		grades = {
             ['0'] = {
-                name = 'Rekrut',
+                name = 'Greenhorn',
                 payment = 100
             },
 			['1'] = {
-                name = 'Kellner',
+                name = 'Anfänger',
                 payment = 150
             },
 			['2'] = {
-                name = 'Bar',
+                name = 'Lackierer',
                 payment = 200
             },
 			['3'] = {
-                name = 'Sicherheit',
-                payment = 225
+                name = 'Picasso',
+                payment = 250
             },
 			['4'] = {
                 name = 'Manager',
 				isboss = true,
-                payment = 250
+                payment = 300
             },
         },
 	},
