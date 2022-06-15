@@ -614,5 +614,11 @@ QBShared.Items = {
 	['icetea'] 	             			= {['name'] = 'icetea', 			   			['label'] = 'IceTea', 				       	['weight'] = 250, 		['type'] = 'item', 		['image'] = 'icetea.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ich mag Tee wenn er eiskalt ist und mit einem Haufen Zucker'},
 	['saft'] 	             			= {['name'] = 'saft', 			    			['label'] = 'Saft', 				       	['weight'] = 250, 		['type'] = 'item', 		['image'] = 'saft.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ganz normaler Saft meine Freunde'},
 
+
+	['spray'] 	  						= {['name'] = 'spray', 							['label'] = 'Spray', 						['weight'] = 500, 		['type'] = 'item', 		['image'] = 'spray.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true, 	['combinable'] = nil, 	['description'] = 'Spray paint can'},
+	['spray_remover'] 					= {['name'] = 'spray_remover', 					['label'] = 'Spray Remover', 				['weight'] = 500, 		['type'] = 'item', 		['image'] = 'spray_remover.png', 		['unique'] = false, 	['useable'] = true,		['shouldClose'] = true, 	['combinable'] = nil, 	['description'] = 'Removes graffiti'},
+
+	['boombox'] 						= {['name'] = 'boombox',	 					['label'] = 'Boombox',	 					['weight'] = 500, 		['type'] = 'item', 		['image'] = 'boombox.png',	 			['unique'] = false, 	['useable'] = true,		['shouldClose'] = true, 	['combinable'] = nil, 	['description'] = 'Eine Boombox'},
+
 }
 

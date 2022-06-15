@@ -1108,6 +1108,24 @@ QBShared.Vehicles = {
 		['hash'] = `kx450f`,
 		['shop'] = 'pdm',
 	},
+	['sjaudi'] = {
+		['name'] = 'RS2',
+		['brand'] = 'Audi',
+		['price'] = 200000,
+		['category'] = 'sedans',
+		['model'] = 'sjaudi',
+		['hash'] = `sjaudi`,
+		['shop'] = 'pdm',
+	},
+	['rmodm4gts'] = {
+		['name'] = 'M4 GTS',
+		['brand'] = 'BMW',
+		['price'] = 200000,
+		['category'] = 'sports',
+		['model'] = 'rmodm4gts',
+		['hash'] = `rmodm4gts`,
+		['shop'] = 'pdm',
+	},
 		-- Boats
 	['squalo'] = {
 		['name'] = 'Squalo',
