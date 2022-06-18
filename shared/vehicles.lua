@@ -1126,6 +1126,24 @@ QBShared.Vehicles = {
 		['hash'] = `rmodm4gts`,
 		['shop'] = 'pdm',
 	},
+	['rx7veilside'] = {
+		['name'] = 'RX7 VeilSide',
+		['brand'] = 'Mazda',
+		['price'] = 150000,
+		['category'] = 'sports',
+		['model'] = 'rx7veilside',
+		['hash'] = `rx7veilside`,
+		['shop'] = 'pdm',
+	},
+	['fc15'] = {
+		['name'] = 'California T',
+		['brand'] = 'Ferrari',
+		['price'] = 225000,
+		['category'] = 'sports',
+		['model'] = 'fc15',
+		['hash'] = `fc15`,
+		['shop'] = 'pdm',
+	},
 		-- Boats
 	['squalo'] = {
 		['name'] = 'Squalo',
