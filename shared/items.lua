@@ -497,8 +497,8 @@ QBShared.Items = {
 
 	--Beer Route
 	["hopfen"]				 		= {["name"] = "hopfen",							["label"] = "Hopfen", 					["weight"] = 100, 		["type"] = "item", 		["image"] = "hopfen.png", 				["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "Dea schensta Bluma nochm Edlweiss"},
-	["beerbottle"]				 	= {["name"] = "beerbottle",						["label"] = "leere Bierflasche",		["weight"] = 100, 		["type"] = "item", 		["image"] = "beerbottle.png", 			["unique"] = false, 		["useable"] = true, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "Zefix warum isn die Floscha leer"},
-	["statebräu"]				 	= {["name"] = "statebräu",						["label"] = "Statebäu",					["weight"] = 100, 		["type"] = "item", 		["image"] = "stateb.png",	 			["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "Sakra! Statebräu rot bis zum Tod"},
+	["beerbottle"]				 	= {["name"] = "beerbottle",						["label"] = "leere Bierflasche",		["weight"] = 100, 		["type"] = "item", 		["image"] = "beerbottle.png", 			["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "Zefix warum isn die Floscha leer"},
+	["statebrau"]				 	= {["name"] = "statebrau",						["label"] = "Statebau",					["weight"] = 100, 		["type"] = "item", 		["image"] = "stateb.png",	 			["unique"] = false, 		["useable"] = true, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "Sakra! Statebräu rot bis zum Tod"},
 
 	--Moonshine Route
 	["corn"]				 		= {["name"] = "corn",							["label"] = "Korn", 					["weight"] = 10, 		["type"] = "item", 		["image"] = "corn.png", 				["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false, 	["combinable"] = nil, 	["description"] = "KOOOOOOOOOOOOOOOOOORRRRRRRRRRRRRRRNNNNNNNNN"},
